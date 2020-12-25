@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 #	这是Python对Unix系统远程连接的类包装。
 #	主要使用是开源的 Paramiko 连接和执行，辅助其他模块作为添加。
 #	连接初始化需要 hostname user password port
